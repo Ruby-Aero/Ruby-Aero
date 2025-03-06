@@ -15,27 +15,10 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
 
-# **두껍게** <br>
-## *기울임* <br>
-### ~~취소선~~ <br>
-
-* 1번
-* 2번
-- 1번
-- 2번
-
-[네이버](https://naver.com)
 
 
 ```
 print('hi')
 ```
-# 😏
-# 😂
-# 😡
+
